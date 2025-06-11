@@ -17,12 +17,9 @@ I'm in my last year of my Computer Science Bachelor's Degree and a developer exp
 ## 🧠 Research Interests
 - Brain–Computer Interfaces (BCI)
 - Neuro-AI interpretability
-- Signal-to-language translation
-- Human-centered AI interfaces
-- Knowledge graphs in education
 
 ## 🎮 Fun Facts
-- Big fan of **The Legend of Zelda**, **Minecraft**, and **Stardew Valley**.
+- Big fan of **The Legend of Zelda**, **Minecraft** and **Stardew Valley**.
 - Love building interactive demos (ask me about my **EEG spectrogram viewer** with saliency overlays in Streamlit!).
 
 ## 📫 Get in Touch
